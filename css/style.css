@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background-color: #FAFAFA;
+    font-family: 'Poppins', sans-serif;
+}
+.btn-schedule{
+    background-color: #0B78B7;
+    color: #fff;
+}
+.our-service-list ul{
+    list-style: none;
+}
+.android-img img{
+    width: 350px;
+    height: 641px;
+}
+.android-img {
+    text-align: right;
+}
+.footer{
+    background-color: #F1F1F1;
+}
+.footer li{
+   list-style: none;
+}
+.country-flag img{
+    padding-top: 5px;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+.company ul{
+    margin-left: -30px;
+}
+.company ul a{
+    text-decoration: none;
+}
+.fa-phone-square-alt{
+    padding-top: 3px;
+}
+
+@media only screen and (max-width:375px) {
+    
+}
