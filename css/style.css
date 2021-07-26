@@ -32,8 +32,12 @@ body{
 .company ul{
     margin-left: -30px;
 }
-.company ul a{
+.company p a{
     text-decoration: none;
+    color: black;
+}
+.company p {
+    font-size: 16px;
 }
 .fa-phone-square-alt{
     padding-top: 3px;
